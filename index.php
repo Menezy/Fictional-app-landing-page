@@ -152,7 +152,7 @@
           <div class="row">
 
                <div class="col-md-offset-2 col-md-8 col-sm-12">
-                    <h2 class="wow fadeInUp" data-wow-delay="0.4s">Fictional app landing page for startups<a href="#screenshot" class="wow fadeInUp section-btn btn btn-success smoothScroll" data-wow-delay="0.8s">Learn More</a>
+                    <h2 class="wow fadeInUp" data-wow-delay="0.4s">Fictional app landing page for startups</h2><a href="#screenshot" class="wow fadeInUp section-btn btn btn-success smoothScroll" data-wow-delay="0.8s">Learn More</a>
                </div>
 
           </div>
