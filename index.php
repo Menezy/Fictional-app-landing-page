@@ -112,7 +112,7 @@
 
                <div class="wow fadeInUp col-md-3 col-sm-6" data-wow-delay="0.4s">
                     <div class="about-thumb">
-                         <img src="images/team-img1.jpg" class="img-responsive" alt="Team">
+                         <img src="images/menezy.jpg" class="img-responsive" alt="Team">
                               <div class="about-overlay">
                                    <h3>Bright M. Sunday</h3>
                                    <h4>Frontend Developer</h4>
@@ -127,7 +127,7 @@
 
                 <div class="wow fadeInUp col-md-3 col-sm-6" data-wow-delay="0.4s">
                     <div class="about-thumb">
-                         <img src="images/team-img2.jpg" class="img-responsive" alt="Team">
+                         <img src="images/perrie.jpg" class="img-responsive" alt="Team">
                               <div class="about-overlay">
                                    <h3>Perrie</h3>
                                    <h4>UX Designer</h4>
